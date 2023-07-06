@@ -1,5 +1,5 @@
-template-repository (1.0-1) unstable; urgency=medium
+rust-peeking-take-while (0.1.2-1) unstable; urgency=medium
 
-  * Initial release
+  * Package peeking_take_while 0.1.2 from crates.io using debcargo 2.2.7
 
- -- Tsic404 <liuheng@deepin.org>  Sat, 28 Jan 2023 13:46:49 +0800
+ -- kpcyrd <git@rxv.cc>  Sun, 14 Oct 2018 09:43:56 +0200
